@@ -1,11 +1,8 @@
 # 🛰️ Traceroute Analyzer: Deteksi Jalur Jaringan & Titik Kemacetan
 
-Proyek ini dirancang untuk menganalisis jalur jaringan menggunakan perintah `traceroute`, lalu memvisualisasikan titik-titik kemacetan dan jalur yang lancar. Cocok untuk pembelajaran troubleshooting jaringan, terutama di lingkungan virtual seperti VirtualBox.
-
+Proyek ini dirancang untuk menganalisis jalur jaringan menggunakan perintah `traceroute`, lalu memvisualisasikan titik-titik kemacetan dan jalur yang lancar.
 ---
-
 ## 🚀 Cara Menjalankan
-
 1. Pastikan Python dan traceroute sudah terinstal:
    ```bash
    sudo apt update
